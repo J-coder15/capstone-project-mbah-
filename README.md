@@ -79,12 +79,5 @@ README.md
 
 ## Next Steps
 
-If needed, I can also help you:
 
-* format this for a professional GitHub portfolio,
-* prepare a dashboard summary section,
-* convert this to Markdown code with badges, tables, or charts,
-* or add an analytical narrative suitable for recruiters.
-
-Just tell me what you'd like next!
 
